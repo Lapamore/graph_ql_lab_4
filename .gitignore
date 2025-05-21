@@ -1,0 +1,7 @@
+backend/src/schemas/__pycache__
+backend/src/events/__pycache__
+backend/src/mocks/__pycache__
+backend/src/models/__pycache__
+backend/src/resolvers/__pycache__
+backend/src/schemas/__pycache__
+services/gateway/__pycache__
