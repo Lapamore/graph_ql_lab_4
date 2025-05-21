@@ -13,7 +13,6 @@ class User:
     email: str
     name: str
     role: Role
-    vk_id: Optional[str] = None
     disabled: bool = False
 
 @strawberry.type
